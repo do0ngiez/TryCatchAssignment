@@ -1,0 +1,14 @@
+C:\Users\grace\Desktop\C#_Assignments\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grace\Desktop\C#_Assignments\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.AssemblyInfoInputs.cache
+C:\Users\grace\Desktop\C#_Assignments\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.AssemblyInfo.cs
+C:\Users\grace\Desktop\C#_Assignments\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\grace\Desktop\C#_Assignments\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.exe
+C:\Users\grace\Desktop\C#_Assignments\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.deps.json
+C:\Users\grace\Desktop\C#_Assignments\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.runtimeconfig.json
+C:\Users\grace\Desktop\C#_Assignments\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.dll
+C:\Users\grace\Desktop\C#_Assignments\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.pdb
+C:\Users\grace\Desktop\C#_Assignments\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.dll
+C:\Users\grace\Desktop\C#_Assignments\TryCatchAssignment\obj\Debug\net8.0\refint\TryCatchAssignment.dll
+C:\Users\grace\Desktop\C#_Assignments\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.pdb
+C:\Users\grace\Desktop\C#_Assignments\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.genruntimeconfig.cache
+C:\Users\grace\Desktop\C#_Assignments\TryCatchAssignment\obj\Debug\net8.0\ref\TryCatchAssignment.dll
